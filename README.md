@@ -1,4 +1,5 @@
 # MakeBeautiful
+![logo](https://github.com/sontbui/sontbui-github/blob/main/Welcome.png)
 <h1 align="center">Hi 👋, I'm Son Bui Thanh</h1>
 <h3 align="center">A passionate backend developer from VietNam</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">

@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Java, Angular, Spring Boost, Flutter, Swift, Python,...**
 
-- 👯 I’m looking to collaborate on **Backend Developer**
-
 - 🤝 I’m looking for help with **Backend Developer**
 
 - 💬 Ask me about **Java, Angular, Spring Boost, Flutter,....**

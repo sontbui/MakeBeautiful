@@ -1,11 +1,11 @@
 
-![logo](https://github.com/sontbui/sontbui-github/blob/main/Welcome.png)
-# <h1 align="center">Hi 👋, I'm Son Bui Thanh</h1>
-<h3 align="center">A passionate backend developer from VietNam</h3>
+
+<h1 align="center">A passionate backend developer from VietNam</h1>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sontbui&label=Profile%20views&color=0e75b6&style=flat" alt="sontbui" /> </p>
 
+- 👋🏻 I'm **Bui Thanh Son - aka Sontbui**
 - 🔭 I’m currently study at [Open University Ho Chi Minh](https://ou.edu.vn)
 
 - 🌱 I’m currently learning **Java, Angular, Spring Boost, Flutter, Swift, Python,...**

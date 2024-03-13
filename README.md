@@ -38,12 +38,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sontbui&show_icons=true&locale=en" alt="sontbui" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sontbui&" alt="sontbui" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sontbui&show_icons=true&locale=en" alt="sontbui" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sontbui&" alt="sontbui" /></p>
+
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Below+are+my+project"/>

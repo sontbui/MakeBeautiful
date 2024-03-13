@@ -1,9 +1,15 @@
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sontbui&label=Profile%20views&color=0e75b6&style=flat" alt="sontbui" /> </p>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+To+My+Space+🫶🏻;+Just+Call+Me+By+SonBui+👋🏻;" style="color: blue;" />
+</h1>
+
 
 <h1 align="center">A passionate backend developer from VietNam</h1>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sontbui&label=Profile%20views&color=0e75b6&style=flat" alt="sontbui" /> </p>
+
 
 - 👋🏻 I'm **Bui Thanh Son - aka Sontbui**
 - 🔭 I’m currently study at [Open University Ho Chi Minh](https://ou.edu.vn)

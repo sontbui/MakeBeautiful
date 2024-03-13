@@ -1,5 +1,4 @@
 
-![Banner]([https://example.com/banner.png](https://github.com/sontbui/sontbui/blob/main/Welcome.png))
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sontbui&label=Profile%20views&color=0e75b6&style=flat" alt="sontbui" /> </p>

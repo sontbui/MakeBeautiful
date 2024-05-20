@@ -38,8 +38,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sontbui&show_icons=true&locale=en" alt="sontbui" /></p>
 
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sontbui&show_icons=true&locale=en" alt="sontbui" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sontbui&" alt="sontbui" /></p>
 
